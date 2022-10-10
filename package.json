@@ -1,0 +1,16 @@
+{
+  "name": "pset-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "liquidjs-lib": "^6.0.2-liquid.15",
+    "tiny-secp256k1": "^1.1.6"
+  }
+}
