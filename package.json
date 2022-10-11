@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "liquidjs-lib": "^6.0.2-liquid.15",
-    "tiny-secp256k1": "^1.1.6"
+    "tiny-secp256k1": "^2.2.1"
   }
 }
